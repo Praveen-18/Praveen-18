@@ -2,7 +2,7 @@
 <h3 align="center">Student</h3>
 <br>
 
-- 👨‍💻 All of my projects are available at [https://praveen7.herokuapp.com/](https://praveen7.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://praveen18.tech](https://praveen18.tech)
 
 - 📫 How to reach me **prav20ad036@rmkcet.ac.in**
 
