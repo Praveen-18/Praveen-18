@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">Full Stack Developer</h3>
 <br>
 
 - 👨‍💻 All of my projects are available at [https://praveen18.tech](praveen18.tech)
