@@ -6,9 +6,15 @@
 
 - 📫 How to reach me **prav20ad036@rmkcet.ac.in**
 
+![wp5975115-eat-sleep-code-repeat-wallpapers](https://github.com/Praveen-18/Praveen-18/assets/95075378/ab73d076-fa83-48da-a2ee-14510cd73882)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/praveen_1_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praveen_1_8" height="30" width="40" /></a>
+<a href="https://leetcode.com/prav20ad036/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="praveen_1_8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praveen-s-1101a9253/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo2_iACMFTEAg8s1SkgXN_8e04kE4tuud2Kw&usqp=CAU" alt="praveen_1_8" height="30" width="40" style = "border-radius : 15px" /></a>
+  
 </p>
 <br>
 
