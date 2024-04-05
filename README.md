@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <br>
 
-- 👨‍💻 All of my projects are available at [https://praveen18.tech](praveen18.tech)
+- 👨‍💻 All of my projects are available at [https://praveen18.netlify.app/](praveen18.tech)
 
 - 📫 How to reach me **prav20ad036@rmkcet.ac.in**
 
